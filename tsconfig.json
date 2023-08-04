@@ -25,7 +25,6 @@
       "node_modules/@types",
       "src/components/index.d.ts"
     ],
-    "declarationDir": "types"
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
