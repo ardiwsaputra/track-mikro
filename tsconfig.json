@@ -19,11 +19,11 @@
      "declarationMap": true,
     "baseUrl": ".",
      "paths": {
-      "track-mikro": [ "src/component/index.ts" ]
+      "track-mikro": [ "src/components/index.ts" ]
     },
     "typeRoots": [
       "node_modules/@types",
-      "src/component/index.d.ts"
+      "src/components/index.d.ts"
     ],
     "declarationDir": "types"
   },
